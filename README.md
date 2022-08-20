@@ -6,6 +6,9 @@ The electric bikes will have multiple categories such as bikes based on price, p
 The app will also let a user add their own bikes to the database.
 
 
+![Untitled-2022-08-20-0941](https://user-images.githubusercontent.com/106213786/185758701-d263d794-4c22-4fdc-a9cf-dedb7717a9bc.png)
+
+
 User Stories
 
 As a user, I want to be able to clearly see what bikes are in specific categories with links to purchase the bikes. 
